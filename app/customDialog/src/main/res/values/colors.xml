@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#E3BB98</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="CustomDialogBtnFrameColor">#c8cacc</color>
+    <color name="CustomDialogBtnBackgroundColor">#ffffff</color>
+    <color name="CustomDialogBtnPressBackgroundColor">#eff1f4</color>
+    <color name="CustomDialogTitleColor">#292d33</color>
+    <color name="CustomDialogMessageColor">#525a66</color>
+</resources>
